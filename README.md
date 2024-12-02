@@ -4,9 +4,9 @@ Inspired by the great (awesome-search repo)[https://github.com/frutik/awesome-se
 
 ## Topics
 
-* Vector Search
+* [Vector Search](##vector-search)
   * Quantization
-* NLP Tasks
+* [NLP Tasks](##nlp-tasks)
   * NER
   * 
 
@@ -14,11 +14,11 @@ Inspired by the great (awesome-search repo)[https://github.com/frutik/awesome-se
 
 ### Quantization
 * Scalar quantization
-  * (Blog Article)[https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization]
+  * [Blog Article](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization)
 * RaBitQ binary quantization
-  * (Blog Article)[https://www.elastic.co/search-labs/blog/rabitq-explainer-101]
+  * [Blog Article](https://www.elastic.co/search-labs/blog/rabitq-explainer-101)
 * BBQ quantization
-  * (Blog Article about BBQ vs PQ)[https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq]
+  * [Blog Article about BBQ vs PQ](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq)
 
 ## NLP Tasks
 
