@@ -4,9 +4,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## Topics
 
-* [Vector Search](##vector-search)
+* [Vector Search](#vector-search)
   * Quantization
-* [NLP Tasks](##nlp-tasks)
+* [NLP Tasks](#nlp-tasks)
   * NER
   * 
 
