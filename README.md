@@ -20,11 +20,15 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ### Quantization
 * Scalar quantization
-  * [Blog Article](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization)
+  * [Blog](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization)
 * RaBitQ binary quantization
-  * [Blog Article](https://www.elastic.co/search-labs/blog/rabitq-explainer-101)
+  * [Blog](https://www.elastic.co/search-labs/blog/rabitq-explainer-101)
 * BBQ quantization
-  * [Blog Article about BBQ vs PQ](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq)
+  * [Blog about BBQ vs PQ](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq)
+ 
+## LTR
+* [LTR Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-learning-to-rank-introduction) - blog
+* [Personalized search with LTR](https://www.elastic.co/search-labs/blog/personalized-search-elasticsearch-ltr) - blog
 
 ## NLP Tasks
 
