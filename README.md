@@ -10,6 +10,12 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
   * NER
   * 
 
+# Search
+
+## Retrievers
+* [Blog explaining retrievers](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0)
+* [Blog about retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers)
+
 ## Vector Search
 
 ### Quantization
