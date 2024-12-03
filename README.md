@@ -24,10 +24,14 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [BBQ quantization vs Product Quantization](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq) - blog
 
 ## Rerankers
+
+### Semantic rerankers
+* [Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/semantic-reranking.html#semantic-reranking-in-es)
 * [What is a semantic reranker?](https://www.elastic.co/search-labs/blog/elastic-semantic-reranker-part-1) - blog
 * [How to - Use a reranker from Hugging Face](https://www.elastic.co/search-labs/blog/reranking-elasticsearch-hugging-face) - blog
  
-## LTR
+### LTR
+* [Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/learning-to-rank.html)
 * [LTR Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-learning-to-rank-introduction) - blog
 * [Personalized search with LTR](https://www.elastic.co/search-labs/blog/personalized-search-elasticsearch-ltr) - blog
 
