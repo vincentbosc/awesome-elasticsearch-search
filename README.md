@@ -13,18 +13,15 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 # Search
 
 ## Retrievers
-* [Blog explaining retrievers](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0)
-* [Blog about retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers)
+* [Retrievers Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0) - blog
+* [Retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers) - blog
 
 ## Vector Search
 
 ### Quantization
-* Scalar quantization
-  * [Blog](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization)
-* RaBitQ binary quantization
-  * [Blog](https://www.elastic.co/search-labs/blog/rabitq-explainer-101)
-* BBQ quantization
-  * [Blog about BBQ vs PQ](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq)
+* [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
+* [RaBitQ binary quantization](https://www.elastic.co/search-labs/blog/rabitq-explainer-101) - blog
+* [BBQ quantization vs Product Quantization](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq) - blog
  
 ## LTR
 * [LTR Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-learning-to-rank-introduction) - blog
