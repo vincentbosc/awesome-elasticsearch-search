@@ -18,6 +18,10 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## Vector Search
 
+### HSNW
+* blog about cross segment search
+* meetup link @ Canal+
+
 ### Quantization
 * [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
 * [RaBitQ binary quantization](https://www.elastic.co/search-labs/blog/rabitq-explainer-101) - blog
