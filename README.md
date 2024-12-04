@@ -12,7 +12,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 # Search
 
-* [Search tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome) - App in Flask
+* [Search tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome) - app in Flask
 
 ## Retrievers
 * [Retrievers Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0) - blog
@@ -21,8 +21,8 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 ## Vector Search
 
 ### HSNW
-* blog about cross segment search
-* meetup link @ Canal+
+* [Multi HSNW Graph Vector Search](https://www.elastic.co/search-labs/blog/multi-graph-vector-search) - blog
+* [Elastic Meetup - How HSNW works](https://www.youtube.com/watch?v=ly_COu_sHtI) - video (in French)
 
 ### Quantization
 * [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
@@ -31,7 +31,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## ELSER
 
-* [App which compares ELSER and BM25](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/relevance-workbench)
+* [App which compares ELSER and BM25](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/relevance-workbench) - app in Flask and React (github)
 
 ## Rerankers
 
@@ -47,6 +47,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## RAG
 * [Rag demo](https://esre-openai-sample-app.prod-3.eden.elastic.dev/) - eden demo (internal)
+* [Elastic Chat RAG App](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/chatbot-rag-app) - app in Flask (github)
 
 ## NLP Tasks
 
