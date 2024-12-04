@@ -48,6 +48,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 ## RAG
 * [Rag demo](https://esre-openai-sample-app.prod-3.eden.elastic.dev/) - eden demo (internal)
 * [Elastic Chat RAG App](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/chatbot-rag-app) - app in Flask (github)
+* [Rag using Graph](https://www.youtube.com/watch?v=_oQzsOu2ok4) - video (in French)
 
 ## NLP Tasks
 
