@@ -12,6 +12,8 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 # Search
 
+* [Search tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome) - App in Flask
+
 ## Retrievers
 * [Retrievers Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0) - blog
 * [Retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers) - blog
@@ -26,6 +28,10 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
 * [RaBitQ binary quantization](https://www.elastic.co/search-labs/blog/rabitq-explainer-101) - blog
 * [BBQ quantization vs Product Quantization](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq) - blog
+
+## ELSER
+
+* [App which compares ELSER and BM25](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/relevance-workbench)
 
 ## Rerankers
 
