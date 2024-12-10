@@ -55,3 +55,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## NLP Tasks
 
+## Useful datasets
+* [Amazon shopping queries](https://github.com/amazon-science/esci-data/tree/main)
+  * [Example of use](https://frutik.medium.com/playing-with-amazons-shopping-queries-datase-part-i-da24092aefa5)
+* [WANDS](https://github.com/wayfair/WANDS)
+  * [Google Collab to use it](https://colab.research.google.com/drive/1yqSJg-99j1uv62CMKD4UC5ahdB1n7HO5?usp=sharing)
+
