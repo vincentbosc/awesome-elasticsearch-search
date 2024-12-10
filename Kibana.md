@@ -1,4 +1,4 @@
-# Awesome Kibana
+# Wonderful Kibana
 
 ### Embedded Dashboard outside Kibana
 * [How to](https://www.elastic.co/blog/how-to-embed-kibana-dashboards) - blog
