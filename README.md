@@ -55,6 +55,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## NLP Tasks
 
+## Sorting
+* [Optimizing sort queries](https://www.elastic.co/blog/optimizing-sort-queries-in-elasticsearch-for-faster-results) - blog
+
 ## Useful datasets
 * [Amazon shopping queries](https://github.com/amazon-science/esci-data/tree/main) - github
   * [Example of use](https://frutik.medium.com/playing-with-amazons-shopping-queries-datase-part-i-da24092aefa5) - blog
