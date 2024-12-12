@@ -58,7 +58,14 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 ## Sorting
 * [Optimizing sort queries](https://www.elastic.co/blog/optimizing-sort-queries-in-elasticsearch-for-faster-results) - blog
 
-## Useful datasets
+## Benchmarking
+
+### Esrally
+* [Official documentation]
+* [Wikipedia example](https://github.com/elastic/rally-tracks/tree/master/wikipedia) - github
+* [Guide to creating custom tracks](https://www.elastic.co/blog/creating-custom-es-rally-tracks-guide) - blog
+
+### Useful datasets
 * [Amazon shopping queries](https://github.com/amazon-science/esci-data/tree/main) - github
   * [Example of use](https://frutik.medium.com/playing-with-amazons-shopping-queries-datase-part-i-da24092aefa5) - blog
 * [WANDS](https://github.com/wayfair/WANDS) - github
