@@ -6,3 +6,4 @@
 
 ### Visualizations
 * [Playing with time in visualizations](https://www.elastic.co/blog/kibana-10-common-questions-formulas-time-series-maps) - blog
+* [Vega Sandkey charts with filters](https://www.elastic.co/search-labs/blog/filter-capabilities-vega-sankey-chart) - blog
