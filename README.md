@@ -42,6 +42,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/semantic-reranking.html#semantic-reranking-in-es)
 * [What is a semantic reranker?](https://www.elastic.co/search-labs/blog/elastic-semantic-reranker-part-1) - blog
 * [How to - Use a reranker from Hugging Face](https://www.elastic.co/search-labs/blog/reranking-elasticsearch-hugging-face) - blog
+* [Rethinking rerankers](https://haystackconf.com/eu2024/talk-2/) - Haystack video
  
 ### LTR
 * [Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/learning-to-rank.html)
@@ -70,4 +71,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
   * [Example of use](https://frutik.medium.com/playing-with-amazons-shopping-queries-datase-part-i-da24092aefa5) - blog
 * [WANDS](https://github.com/wayfair/WANDS) - github
   * [Example of use with BM25](https://colab.research.google.com/drive/1yqSJg-99j1uv62CMKD4UC5ahdB1n7HO5?usp=sharing) - Google Collab
+ 
+## Unordered links
+* [Serverless going GA](https://www.elastic.co/search-labs/blog/elasticsearch-serverless-now-ga) - blog
 
