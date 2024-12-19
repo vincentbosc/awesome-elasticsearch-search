@@ -61,6 +61,10 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## Benchmarking
 
+### Relevance
+* [What is a judgment list](https://softwaredoug.com/blog/2021/02/21/what-is-a-judgment-list) - blog
+* [Rankeval](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-rank-eval.html) - documentation
+
 ### Esrally
 * [Official documentation]
 * [Wikipedia example](https://github.com/elastic/rally-tracks/tree/master/wikipedia) - github
