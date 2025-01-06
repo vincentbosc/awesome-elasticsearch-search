@@ -64,6 +64,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 ### Relevance
 * [What is a judgment list](https://softwaredoug.com/blog/2021/02/21/what-is-a-judgment-list) - blog
 * [Rankeval](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-rank-eval.html) - documentation
+* [Rated Ranking Evaluator](https://github.com/SeaseLtd/rated-ranking-evaluator) - github
+* [Quepid](https://github.com/o19s/quepid) - github
+* [BEIR](https://github.com/beir-cellar/beir) - github
 
 ### Esrally
 * [Official documentation]
