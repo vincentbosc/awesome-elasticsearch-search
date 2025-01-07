@@ -4,11 +4,22 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## Topics
 
+* [Retrievers](#retrievers)
+  * [RRF](#rrf)
 * [Vector Search](#vector-search)
-  * Quantization
+  * [HSNW](#hsnw)
+  * [Quantization](#quantization)
+* [ELSER](#elser)
+* [Rerankers](#rerankers)
+  * [Semantic rerankers](#semantic-rerankers)
+  * [LTR](#ltr)
+* [RAG](#rag)
 * [NLP Tasks](#nlp-tasks)
-  * NER
-  * 
+* [Sorting](#sorting)
+* [Benchmarking](#benchmarking)
+  * [Relevance](#relevance)
+  * [Esrally](#esrally)
+  * [Useful datasets](#useful-datasets)
 
 # Search
 
