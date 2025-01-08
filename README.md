@@ -42,6 +42,8 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
 * [RaBitQ binary quantization](https://www.elastic.co/search-labs/blog/rabitq-explainer-101) - blog
 * [BBQ quantization vs Product Quantization](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq) - blog
+* [Scalar quantization optimization](https://www.elastic.co/search-labs/blog/optimized-scalar-quantization-elasticsearch) - blog
+* [Scalar quantization optimization - Math heavy](https://www.elastic.co/search-labs/blog/scalar-quantization-optimization) - blog
 
 ## ELSER
 
