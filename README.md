@@ -37,6 +37,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 ### HSNW
 * [Multi HSNW Graph Vector Search](https://www.elastic.co/search-labs/blog/multi-graph-vector-search) - blog
 * [Elastic Meetup - How HSNW works](https://www.youtube.com/watch?v=ly_COu_sHtI) - video (in French)
+* [Brute Force vs HSNW](https://www.elastic.co/search-labs/blog/knn-exact-vs-approximate-search) - blog
 
 ### Quantization
 * [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
