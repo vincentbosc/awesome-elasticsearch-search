@@ -4,12 +4,15 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## Topics
 
+* [Traditional Search](#traditional-search)
 * [Retrievers](#retrievers)
   * [RRF](#rrf)
 * [Vector Search](#vector-search)
-  * [HSNW](#hsnw)
-  * [Quantization](#quantization)
-* [ELSER](#elser)
+  * [Dense Vectors](#dense-vectors)
+    * [HSNW](#hsnw)
+    * [Quantization](#quantization)
+  * [Sparse Vectors](#sparse-vectors)
+    * [ELSER](#elser)
 * [Rerankers](#rerankers)
   * [Semantic rerankers](#semantic-rerankers)
   * [LTR](#ltr)
@@ -25,6 +28,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 * [Search tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome) - app in Flask
 
+## Traditional Search (BM25)
+* [Languages with compound words](https://www.elastic.co/search-labs/blog/compound-word-search)
+
 ## Retrievers
 * [Retrievers Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0) - blog
 * [Retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers) - blog
@@ -37,20 +43,24 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [A quick introduction to Vector Search](https://www.elastic.co/search-labs/blog/introduction-to-vector-search) - blog
 * [Elasticsearch vs Opensearch performance](https://www.elastic.co/search-labs/blog/elasticsearch-opensearch-vector-search-performance-comparison) - blog
 
-### HSNW
+### Dense vectors
+
+#### HSNW
 * [Multi HSNW Graph Vector Search](https://www.elastic.co/search-labs/blog/multi-graph-vector-search) - blog
 * [Elastic Meetup - How HSNW works](https://www.youtube.com/watch?v=ly_COu_sHtI) - video (in French)
 * [Brute Force vs HSNW](https://www.elastic.co/search-labs/blog/knn-exact-vs-approximate-search) - blog
 * [KNN and filters](https://softwaredoug.com/blog/2025/02/08/elasticsearch-hybrid-search) - blog
 
-### Quantization
+#### Quantization
 * [Scalar quantization](https://www.elastic.co/search-labs/blog/evaluating-scalar-quantization) - blog
 * [RaBitQ binary quantization](https://www.elastic.co/search-labs/blog/rabitq-explainer-101) - blog
 * [BBQ quantization vs Product Quantization](https://www.elastic.co/search-labs/blog/bit-vectors-elasticsearch-bbq-vs-pq) - blog
 * [Scalar quantization optimization](https://www.elastic.co/search-labs/blog/optimized-scalar-quantization-elasticsearch) - blog
 * [Scalar quantization optimization - Math heavy](https://www.elastic.co/search-labs/blog/scalar-quantization-optimization) - blog
 
-## ELSER
+### Sparse vectors
+
+#### ELSER
 
 * [App which compares ELSER and BM25](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/relevance-workbench) - app in Flask and React (github)
 
