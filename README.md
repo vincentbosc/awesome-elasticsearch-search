@@ -30,10 +30,12 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers) - blog
 
 ### RRF
+* [Hybrid Search using RRF](https://www.elastic.co/search-labs/blog/hybrid-search-elasticsearch) - blog
 * [Is RRF enough?](https://softwaredoug.com/blog/2024/11/03/rrf-is-not-enough) - blog
 
 ## Vector Search
 * [A quick introduction to Vector Search](https://www.elastic.co/search-labs/blog/introduction-to-vector-search) - blog
+* [Elasticsearch vs Opensearch performance](https://www.elastic.co/search-labs/blog/elasticsearch-opensearch-vector-search-performance-comparison) - blog
 
 ### HSNW
 * [Multi HSNW Graph Vector Search](https://www.elastic.co/search-labs/blog/multi-graph-vector-search) - blog
