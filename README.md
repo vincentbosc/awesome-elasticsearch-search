@@ -89,6 +89,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Elastic Chat RAG App](https://github.com/elastic/elasticsearch-labs/tree/main/example-apps/chatbot-rag-app) - app in Flask (github)
 * [Rag using Graph](https://www.youtube.com/watch?v=_oQzsOu2ok4) - video (in French)
 
+## Facets
+* [Fuzzy facets with binary vectors](https://www.youtube.com/watch?v=sJU_8mtzH7Y)
+
 ## NLP Tasks
 
 ## Benchmarking
