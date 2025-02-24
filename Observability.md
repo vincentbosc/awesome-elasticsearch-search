@@ -1,7 +1,7 @@
 Useful list of links regarding Observability and Elasticsearch
 
-[Elastic distributions for OpenTelemetry - EDOT](https://www.elastic.co/observability-labs/blog/elastic-distributions-opentelemetry) - blog
-[Automatic import - Custom Integrations with LLM](https://www.elastic.co/blog/automatic-import-ai-data-integration-builder) - blog
+* [Elastic distributions for OpenTelemetry - EDOT](https://www.elastic.co/observability-labs/blog/elastic-distributions-opentelemetry) - blog
+* [Automatic import - Custom Integrations with LLM](https://www.elastic.co/blog/automatic-import-ai-data-integration-builder) - blog
 
 ## OpenTelemetry
 
