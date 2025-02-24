@@ -7,6 +7,7 @@ Useful list of links regarding Observability and Elasticsearch
 ### Integrations by language
 
 #### Java
+* [Auto Instrumentation](https://www.elastic.co/observability-labs/blog/auto-instrumentation-java-applications-opentelemetry) - blog
 * [Manual Instrumentation](https://www.elastic.co/observability-labs/blog/manual-instrumentation-java-apps-opentelemetry) - blog
 
 #### .NET
