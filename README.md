@@ -36,7 +36,8 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Optimizing sort queries](https://www.elastic.co/blog/optimizing-sort-queries-in-elasticsearch-for-faster-results) - blog
 
   ### Diversity
-* [Relevance vs Diversity](https://opensourceconnections.com/blog/2019/09/05/diversity-vs-relevance/)
+* [Relevance vs Diversity](https://opensourceconnections.com/blog/2019/09/05/diversity-vs-relevance/) - blog
+* [Clustering results using binary vectors](https://www.youtube.com/watch?v=sJU_8mtzH7Y&list=PL_mJOmq4zsHY3Q4uny7NIpTTaq3UK5qfU&index=5) - ElasticOn video
 
 ## Vector Search
 * [A quick introduction to Vector Search](https://www.elastic.co/search-labs/blog/introduction-to-vector-search) - blog
