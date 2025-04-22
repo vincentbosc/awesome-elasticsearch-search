@@ -35,6 +35,9 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
   ### Sorting
 * [Optimizing sort queries](https://www.elastic.co/blog/optimizing-sort-queries-in-elasticsearch-for-faster-results) - blog
 
+  ### Diversity
+* [Relevance vs Diversity](https://opensourceconnections.com/blog/2019/09/05/diversity-vs-relevance/)
+
 ## Vector Search
 * [A quick introduction to Vector Search](https://www.elastic.co/search-labs/blog/introduction-to-vector-search) - blog
 * [Elasticsearch vs Opensearch performance](https://www.elastic.co/search-labs/blog/elasticsearch-opensearch-vector-search-performance-comparison) - blog
