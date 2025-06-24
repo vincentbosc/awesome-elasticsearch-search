@@ -6,6 +6,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 * [Traditional Search](#traditional-search)
   * [Sorting](#sorting)
+  * [Click residual](https://observer.wunderwood.org/2022/08/08/click-residual-a-query-success-metric/)
 * [Vector Search](#vector-search)
   * [Dense Vectors](#dense-vectors)
     * [HSNW](#hsnw)
