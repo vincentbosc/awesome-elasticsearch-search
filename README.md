@@ -31,6 +31,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 ## Traditional Search (BM25)
 * [Languages with compound words](https://www.elastic.co/search-labs/blog/compound-word-search)
+* [How Sourcegraph leverages BM25F](https://sourcegraph.com/blog/keeping-it-boring-and-relevant-with-bm25f) - blog
 
   ### Sorting
 * [Optimizing sort queries](https://www.elastic.co/blog/optimizing-sort-queries-in-elasticsearch-for-faster-results) - blog
