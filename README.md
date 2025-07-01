@@ -7,6 +7,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Traditional Search](#traditional-search)
   * [Sorting](#sorting)
   * [Click residual](https://observer.wunderwood.org/2022/08/08/click-residual-a-query-success-metric/)
+  * [How to really do Autocomplete](https://bonsai.io/blog/how-to-really-do-autocomplete/)
 * [Vector Search](#vector-search)
   * [Dense Vectors](#dense-vectors)
     * [HSNW](#hsnw)
