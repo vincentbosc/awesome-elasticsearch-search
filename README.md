@@ -73,6 +73,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
   ### Retrievers
 * [Retrievers Introduction](https://www.elastic.co/search-labs/blog/elasticsearch-retrievers-ga-8.16.0) - blog
 * [Retrievers using semantic reranking](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers) - blog
+* [Linear Retriever](https://www.elastic.co/search-labs/blog/linear-retriever-hybrid-search)
 
   ### RRF
 * [Hybrid Search using RRF](https://www.elastic.co/search-labs/blog/hybrid-search-elasticsearch) - blog
