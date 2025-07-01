@@ -6,8 +6,6 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 
 * [Traditional Search](#traditional-search)
   * [Sorting](#sorting)
-  * [Click residual](https://observer.wunderwood.org/2022/08/08/click-residual-a-query-success-metric/)
-  * [How to really do Autocomplete](https://bonsai.io/blog/how-to-really-do-autocomplete/)
 * [Vector Search](#vector-search)
   * [Dense Vectors](#dense-vectors)
     * [HSNW](#hsnw)
@@ -30,6 +28,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 # Search
 
 * [Search tutorial](https://www.elastic.co/search-labs/tutorials/search-tutorial/welcome) - app in Flask
+* [How to really do Autocomplete](https://bonsai.io/blog/how-to-really-do-autocomplete/) - blog
 
 ## Traditional Search (BM25)
 * [Languages with compound words](https://www.elastic.co/search-labs/blog/compound-word-search)
@@ -111,6 +110,7 @@ Inspired by the great [awesome-search repo](https://github.com/frutik/awesome-se
 * [Rated Ranking Evaluator](https://github.com/SeaseLtd/rated-ranking-evaluator) - github
 * [Quepid](https://github.com/o19s/quepid) - github
 * [BEIR](https://github.com/beir-cellar/beir) - github
+* [Click residual](https://observer.wunderwood.org/2022/08/08/click-residual-a-query-success-metric/)
 
   ### Esrally
 * [Official documentation]
